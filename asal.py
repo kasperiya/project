@@ -11,7 +11,7 @@ for i in range(2,number):
         dividing.append(i)
 
 
-print("sayaç degeri",sayac)
+print("sayaç degeri",buyc)
 print("sayının bölenleri",dividing)
 
 if buyc>0:
