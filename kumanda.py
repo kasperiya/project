@@ -1,13 +1,12 @@
 import random as rnd 
 print("tv yi açmak için simgesine 1 e bas\n"
     "tv durumunu ögrenmek için 2 ye bas\n"
-
     "ses ayarları için 3 e basınız\n"
     "kanal listesi için 4 e basınız\n"
-    "kanallar arası gezme için 8 e basın\n"
     "izlediginiz  kanalı ögrenmek için 5 e bas\n"
     "kanal ekleme için 6 e basın\n"
     "rastgele kanal açmak için 7 e bas \n"
+    "kanallar arası gezme için 8 e basın\n"
     "kapatmak için (0) simgesine bas\n"
 )
 class kontrol():
